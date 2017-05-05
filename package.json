@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
+    "url": "https://github.com/navcoindev/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "bitcore-lib": "git://github.com/navcoindev/bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
